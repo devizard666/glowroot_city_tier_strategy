@@ -1,0 +1,35 @@
+city,state,city_tier,population,income_index,internet_penetration,city_random_effect
+Mumbai,Maharashtra,1,9460709,1.015,0.757,0.0752
+Delhi,Delhi,1,7608253,1.015,0.689,-0.0253
+Bangalore,Karnataka,1,9897465,1.015,0.693,0.0622
+Hyderabad,Telangana,1,8568714,1.01,0.734,-0.0687
+Chennai,Tamil Nadu,1,9894183,1.01,0.725,-0.004
+Pune,Maharashtra,1,11160479,1.015,0.756,-0.0124
+Kolkata,West Bengal,1,8765272,0.995,0.718,0.0292
+Ahmedabad,Gujarat,1,15395359,1.01,0.685,-0.0325
+Jaipur,Rajasthan,2,2718505,0.614,0.395,0.0903
+Lucknow,Uttar Pradesh,2,1642009,0.615,0.316,0.052
+Indore,Madhya Pradesh,2,1454367,0.702,0.407,0.0435
+Coimbatore,Tamil Nadu,2,2282632,0.721,0.536,0.0175
+Surat,Gujarat,2,2779050,0.588,0.506,0.0054
+Nagpur,Maharashtra,2,1315852,0.698,0.537,-0.0256
+Vadodara,Gujarat,2,1990109,0.674,0.462,0.1196
+Vijayawada,Andhra Pradesh,2,1215900,0.644,0.484,-0.0268
+Bhopal,Madhya Pradesh,2,2810658,0.646,0.447,0.0635
+Patna,Bihar,2,2958791,0.597,0.276,-0.0153
+Chandigarh,Punjab,2,1588326,0.602,0.531,0.0398
+Kochi,Kerala,2,1886929,0.712,0.469,0.0127
+Ludhiana,Punjab,2,2571169,0.636,0.493,-0.053
+Visakhapatnam,Andhra Pradesh,2,1441876,0.568,0.355,0.039
+Ranchi,Jharkhand,3,1165034,0.425,0.174,0.0357
+Raipur,Chhattisgarh,3,849026,0.411,0.237,-0.0064
+Jodhpur,Rajasthan,3,619739,0.358,0.234,-0.0798
+Guwahati,Assam,3,862545,0.475,0.306,0.1039
+Varanasi,Uttar Pradesh,3,710151,0.463,0.257,-0.0164
+Amritsar,Punjab,3,1321275,0.536,0.224,-0.1382
+Madurai,Tamil Nadu,3,799744,0.476,0.266,-0.1157
+Siliguri,West Bengal,3,1068147,0.489,0.304,0.0017
+Dehradun,Uttarakhand,3,688159,0.48,0.288,0.0143
+Jabalpur,Madhya Pradesh,3,1318874,0.434,0.176,0.0285
+Gwalior,Madhya Pradesh,3,787081,0.453,0.186,-0.0741
+Kota,Rajasthan,3,1229727,0.409,0.267,-0.0178
